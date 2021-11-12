@@ -1,0 +1,12 @@
+volume/.npm
+volume/.cache
+volume/.config
+volume/.lesshst
+volume/.viminfo
+volume/.bash_history
+volume/.node_repl_history
+volume/.vim/plugged
+volume/.vim/.netrwhist
+volume/localusers
+volume/.complete
+volume/.ash_history

@@ -1,0 +1,12 @@
+{
+  "name": "apline_vim_container",
+  "version": "1.0.0",
+  "description": "A linux container with vim and other things",
+  "scripts": {
+    "create": "./volume/scripts/init.sh",
+    "start": "./volume/scripts/start_environment.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

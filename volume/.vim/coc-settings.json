@@ -1,0 +1,20 @@
+{
+	"coc.preferences.formatOnSaveFiletypes": [
+		"javascript",
+		"typescript",
+		"typescriptreact",
+		"json",
+		"sh",
+		"javascriptreact",
+		"typescript.tsx",
+		"graphql",
+		"python",
+		"html",
+		"golang",
+		"css",
+		"dockerfile"
+	],
+	"yaml.schemas": {
+		"kubernetes": "/*.yaml"
+	}
+}
